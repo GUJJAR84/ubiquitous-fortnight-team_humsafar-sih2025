@@ -2,7 +2,7 @@
 
 ## AI/ML-Powered Video Analysis and Interpretation for National Security Guard
 
-![NSG Video Intelligence](https://img.shields.io/badge/Smart%20India%20Hackathon-2024-blue)
+![NSG Video Intelligence](https://img.shields.io/badge/Smart%20India%20Hackathon-2025-blue)
 ![React](https://img.shields.io/badge/React-18.x-61dafb)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -324,7 +324,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Ministry of Home Affairs (MHA)
 - National Security Guard (NSG)
-- Smart India Hackathon 2024
+- Smart India Hackathon 2025
 - TensorFlow.js team
 - COCO Dataset contributors
 - Open-source community
