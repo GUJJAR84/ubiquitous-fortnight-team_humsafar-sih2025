@@ -2,7 +2,7 @@
 
 ## AI/ML-Powered Video Analysis and Interpretation for National Security Guard
 
-![NSG Video Intelligence](https://img.shields.io/badge/Smart%20India%20Hackathon-2024-blue)
+![NSG Video Intelligence](https://img.shields.io/badge/Smart%20India%20Hackathon-2025-blue)
 ![React](https://img.shields.io/badge/React-18.x-61dafb)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
